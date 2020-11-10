@@ -75,12 +75,12 @@ trainer.fit(model, train, val)
 trainer.test(test_dataloaders=test)
 ```
 
-### Citation   
-```
-@article{YourName,
-  title={Your Title},
-  author={Your team},
-  journal={Location},
-  year={Year}
-}
-```   
+### Code and folders structure
+* ***proj_seatizen*** contains:
+  * ***main.jpynb*** calls the main functions:
+    * **fine_tuning_config_file** : configuration file;
+  * ***input_dataset*** folder contains the original dataframe;
+  * ***output_dataset*** folder contains the train and the validation dataframes;
+    * ***train*** folder contains the train dataframe;
+    * ***val*** folder contains the train dataframe;
+  * ***references*** folder contains main bibliography exploited in our work;
