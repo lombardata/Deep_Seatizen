@@ -22,8 +22,18 @@ Conference
 </div>
  
 ## Description   
-What it does   
+Surfers, kitesurfers, windsurfers, divers, sailors will be able to contribute to the acquisition of
+marine data. This new network will make it possible to better map marine biodiversity and to
+Strengthen the collection of large-scale environmental data on the coastal ecosystems of the
+French coastline. The data collected by this network of participatory sciences will enable the
+researchers to answer key scientific questions about the impact of change
+on marine ecosystems, while involving civil society in this innovative approach.
+Open Citizen Science (open data, open source, open hardware and open model). In return, this network
+strengthen the information and services expected by users of the marine domain (more data, more information, more information, more services).
+available on marine weather, information on sea trips or data enhancement
+available for sea rescue).
 
+For more informations about the project see https://drive.google.com/file/d/1UoRMP1YMiqU4Ru9geqHE0cvURKAQnlJx/view
 ## How to run   
 First, install dependencies   
 ```bash
